@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 ### Beghini F, Pasolli E, Truong TD, Putignani L, Cacciò SM, Segata N. 2017. Large-scale comparative metagenomics of Blastocystis, a common member of the human gut microbiome. ISME J 1–16. ([paper](https://www.nature.com/ismej/journal/vaop/ncurrent/full/ismej2017139a.html))
 
@@ -41,6 +41,3 @@ This paper is a great example of data-mining available shotgun metagenomics sequ
 
 _Summarized from DalMUG group discussion and written by:
 **Gavin Douglas**_
-
-
-
