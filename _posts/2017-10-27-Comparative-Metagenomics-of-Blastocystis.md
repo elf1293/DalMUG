@@ -39,4 +39,8 @@ This paper is a great example of data-mining available shotgun metagenomics sequ
 
 - Problematic colouring in the heatmap dendrogram - branches and labels don’t match (the labels correctly match the sample IDs though so it doesn’t affect the interpretation)
 
+_Summarized from DalMUG group discussion and written by:
+**Gavin Douglas**_
+
+
 
