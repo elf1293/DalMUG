@@ -3,6 +3,9 @@ published: true
 ---
 #### [Kim et al., 2017, “Maternal gut bacteria promote neurodevelopmental abnormalities in mouse offspring”, Nature](https://www.nature.com/articles/nature23910)
 
+_Summarized from DalMUG group discussion and written by:
+**Emily Lamoureux**_
+
 ### Summary
 It has been shown in several animal models that activation of the maternal immune system (MIA), such as by viral infection, is associated with the development of neurological disorders in offspring. Epidemiological studies in humans have also suggested that maternal viral infection is associated with an increase in autism spectrum disorder (ASD). Earlier studies in mice have demonstrated a role for interleukin-17 (IL-17) in ASD-like phenotypes and abnormal cortical development. Here, Gloria Choi, Jun Huh and colleagues provide evidence that MIA-mediated abnormal behavioural phenotypes requires both the presence of segmented filamentous bacteria (SBF) and viral immune activation during pregnancy in mice. These two factors induce the differentiation of IL-17-producing T helper 17 (TH17) cells in pregnant mothers. Their offspring display behavioural abnormalities, which are associated with the presence of cortical patches in the somatosensory cortex of the brain. Overall, we thought this was a thorough analysis of a the interactions between gut microbiota and the host immune system in an interesting ASD mouse model.
 
@@ -33,5 +36,4 @@ It has been shown in several animal models that activation of the maternal immun
 - Researchers did not profile the immune markers or the microbiome in offspring
 
 
-_Summarized from DalMUG group discussion and written by:
-**Emily Lamoureux**_
+
