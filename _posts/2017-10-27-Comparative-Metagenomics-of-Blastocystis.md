@@ -1,8 +1,10 @@
 ---
 published: true
 ---
-### Beghini F, Pasolli E, Truong TD, Putignani L, Cacciò SM, Segata N. 2017. Large-scale comparative metagenomics of Blastocystis, a common member of the human gut microbiome. ISME J 1–16. ([paper](https://www.nature.com/ismej/journal/vaop/ncurrent/full/ismej2017139a.html))
+ 
+#### [Beghini et al., 2017, "Large-scale comparative metagenomics of Blastocystis, a common member of the human gut microbiome." ISME J](https://www.nature.com/ismej/journal/vaop/ncurrent/full/ismej2017139a.html)
 
+### Summary
 This paper is a great example of data-mining available shotgun metagenomics sequencing (MGS) datasets for novel inference. They focus on Blastocystis, a genus of unicellular eukaryotic microorganisms in the Stramenopile phylum. Morphologically strains are similar, but genetically can be extremely different. It tends to be more common in underdeveloped countries and has previously been associated with diseases like inflammatory bowel disease. The authors present guidelines for how Blastocystis (and other taxa) can be identified through MGS data. They convincingly argue that Blastocystis is part of the healthy gut microbiome. Overall this was an excellent paper and well worth reading. Below we highlight some points we found especially interesting or that we did not understand.
 
 ### Points of Interest
