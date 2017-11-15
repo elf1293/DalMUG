@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 #### [Kim et al., 2017, “Maternal gut bacteria promote neurodevelopmental abnormalities in mouse offspring”, Nature](https://www.nature.com/articles/nature23910)
 
@@ -35,4 +35,3 @@ It has been shown in several animal models that activation of the maternal immun
 
 _Summarized from DalMUG group discussion and written by:
 **Emily Lamoureux**_
-
