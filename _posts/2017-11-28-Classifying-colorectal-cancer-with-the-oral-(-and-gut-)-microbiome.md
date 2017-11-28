@@ -24,7 +24,7 @@ See our main takeaways from the paper below.
 ### Points of Interest
 - A novel combination of oral and fecal microbiome datasets improved sensitivity in distinguishing disease. The term “sensitivity” in a random forests model [measures the proportion of positives that are correctly identified](http://shahramabyari.com/2016/02/22/measuring-performance-of-classifiers/) (i.e. true positive discovery rate). See our summary table here:
 
-![2017-11-28-table.png]({{site.baseurl}}/_images/2017-11-28-table.png)
+![2017-11-28-table.png]({{site.baseurl}}/images/2017-11-28-table.png)
 
 - Oral pathogens that were previously linked with oral biofilms and human disease (7 OTUs), and dominant bacteria in early dental biofilm formation (10 OTUs) were found to be significantly more abundant in colonic microbiota of CRC patients.
 
