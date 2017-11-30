@@ -1,5 +1,6 @@
 ---
 published: true
+post_snippet: ...evidence that MIA-mediated abnormal behavioural phenotypes requires both the presence of segmented filamentous bacteria (SBF) and viral immune activation during pregnancy in mice. These two factors induce the differentiation of IL-17-producing T helper 17 (TH17) cells in pregnant mothers. Their offspring display behavioural abnormalities, which are associated with the presence of cortical patches in the somatosensory cortex of the brain.
 ---
 #### [Kim et al., 2017, “Maternal gut bacteria promote neurodevelopmental abnormalities in mouse offspring”, Nature](https://www.nature.com/articles/nature23910)
 
