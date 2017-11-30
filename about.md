@@ -7,7 +7,7 @@ published: true
 
 The Dalhousie Microbiome User Group (DalMUG), is made up of researchers and clinicians interested in microbiome research and are primarily affiliated with Dalhousie University. DalMUG aims to help build collaborations, share resources, and build an interdisciplinary community.
 
-DalMUG includes a journal club every other week as well research seminars every few months. 
+DalMUG includes a journal club every other week as well as research seminars every few months. 
 
 ### Mailing List
 
