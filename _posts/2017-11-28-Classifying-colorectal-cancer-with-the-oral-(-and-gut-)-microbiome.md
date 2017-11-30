@@ -1,5 +1,6 @@
 ---
 published: true
+post_snippet: ...combining the oral microbiome and stool microbiome datasets distinguished those with cancer and those with colonic polyps compared to controls with a relatively high specificity. They also found that some of these oral microbes are enriched in pediatric Crohn’s disease biopsies...
 ---
  
 #### [Flemer et al. 2017. The oral microbiota in colorectal cancer is distinctive and predictive. Gut.](http://gut.bmj.com/content/early/2017/10/07/gutjnl-2017-314814)
