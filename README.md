@@ -6,11 +6,14 @@ Once you make the new .md file you need to place:
 ```
 ---
 published: true
+post_snippet: INSERT_TEXT_HERE
 ---
 ```
 
-At the top of the file (or you can replace true with false if you want to simply save it as a draft and wait to publish it later). For [example](
+At the top of the file (or you can replace ```published:true``` with ```published:false``` if you want to simply save it as a draft and wait to publish it later). For [example](
 https://raw.githubusercontent.com/LangilleLab/DalMUG/master/_posts/2017-10-27-Comparative-Metagenomics-of-Blastocystis.md).
+
+The text following ```post_snippet``` is the preview of the post that will be shown on the Blog page under the post title.
 
 Formatting is done using Markdown. 
 This [Markdown Cheatsheet](http://www.jekyllnow.com/Markdown-Style-Guide/) might come in handy.
