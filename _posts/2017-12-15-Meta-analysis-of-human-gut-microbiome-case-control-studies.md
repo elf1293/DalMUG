@@ -39,3 +39,25 @@ As the authors are careful to point out, improving our understanding of the micr
 
 
 - It was not completely clear why the chosen bioinformatic pipeline performed OTU clustering at 100% identity, particularly when genus level resolution was the goal. A few words about why this cutoff was chosen might have been helpful. The database used for taxonomic classification would also have been nice to know (the authors mention using the RDP classifier, but this can be used with other databases). Finally,  there is no mention of normalizing by sequencing depth across samples—either by rarefaction or using a statistical approach such as DeSeq2—which is normally a critical step in any 16S bioinformatic pipeline
+
+### Feedback from the authors
+
+The authors were kind enough to address some of the comments that came from our discussion (see below). Claire Duvallet also wrote a "Behind the paper" piece ([Beyond "dysbiosis": disease-specific and shared microbiome responses to disease](https://naturemicrobiologycommunity.nature.com/users/70264-claire-duvallet/posts/22494-beyond-dysbiosis-disease-specific-and-shared-microbiome-responses-to-disease)) that does an excellent job explaining the thought process behind some of the analyses.
+
+<ul>
+<li> On DeSeq2 (and the discussion in general):
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">nice review! yeah, if we had to do it over, would probably use deseq2. fortunately, now everyone can access <a href="https://twitter.com/cduvallet?ref_src=twsrc%5Etfw">@cduvallet</a> ‘s microbiomeHD database and redo with their favorite pipeline: <a href="https://t.co/ELO13Z2QUD">https://t.co/ELO13Z2QUD</a></p>&mdash; Eric Alm (@ejalm) <a href="https://twitter.com/ejalm/status/942861440892985344?ref_src=twsrc%5Etfw">December 18, 2017</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+</li>
+<li>
+  On clustering at 100% ID (vs <100%):
+  <blockquote class="twitter-tweet" data-conversation="none" data-lang="en"><p lang="en" dir="ltr">not sure that clustering at &lt;100% is a better way to approximate genus level than what we did, but there are def many ways to do it. I doubt changing this would have affected results though, and we wanted to stay simple and straightforward</p>&mdash; Claire Duvallet (@cduvallet) <a href="https://twitter.com/cduvallet/status/943117592415363072?ref_src=twsrc%5Etfw">December 19, 2017</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+</li>
+<li>
+  On rarefying reads:
+  <blockquote class="twitter-tweet" data-conversation="none" data-lang="en"><p lang="en" dir="ltr">no rarefying, just used relative abundances and fairly conservative tests throughout, but like <a href="https://twitter.com/ejalm?ref_src=twsrc%5Etfw">@ejalm</a> said if I had to do it again I&#39;d give DESeq a shot!</p>&mdash; Claire Duvallet (@cduvallet) <a href="https://twitter.com/cduvallet/status/943118643851857920?ref_src=twsrc%5Etfw">December 19, 2017</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+</li>
+<li>
+  On database used with RDP classifier:
+  <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Yep, default data on RDP!</p>&mdash; Thomas Gurry (@ThomasGurry) <a href="https://twitter.com/ThomasGurry/status/943147046848131072?ref_src=twsrc%5Etfw">December 19, 2017</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+</li>
+</ul>
