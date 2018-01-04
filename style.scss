@@ -165,9 +165,12 @@ img {
 
 .site-avatar {
   float: left;
-  width: 70px;
+  margin-right: 20px;
+
+  // Constrain logo image dimensions
+  // (Natural image dimensions: 88x121, see ./images/dalmug_logo.png)
+  width: 51px;
   height: 70px;
-  margin-right: 15px;
 
   @include mobile {
     float: none;
