@@ -1,6 +1,7 @@
 ---
 published: true
 post_snippet: ...an optimized method to sequence full-length small subunit ribosomal RNA by combining novel sequencing and molecular tagging protocols.
+title: Full-length 16S and 18S sequencing without primer bias
 ---
 
 #### [Karst et al. 2018. Retrieval of a million high-quality, full-length microbial 16S and 18S rRNA gene sequences without primer bias. Nature Biotechnology.](https://www.nature.com/articles/nbt.4045)
