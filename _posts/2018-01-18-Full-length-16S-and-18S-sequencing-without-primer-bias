@@ -3,8 +3,7 @@ published: true
 post_snippet: ...an optimized method to sequence full-length small subunit ribosomal RNA by combining novel sequencing and molecular tagging protocols.
 ---
 
-#### [Karst et al. 2018. Retrieval of a million high-quality, full-length microbial 16S and 18S rRNA gene sequences without primer bias. Nature Biotechnology.
-](https://www.nature.com/articles/nbt.4045)
+#### [Karst et al. 2018. Retrieval of a million high-quality, full-length microbial 16S and 18S rRNA gene sequences without primer bias. Nature Biotechnology.](https://www.nature.com/articles/nbt.4045)
 
 _Summary of DalMUG group discussion written by:
 **Akhilesh Dhanani**_
@@ -35,5 +34,5 @@ Overall, this paper presents an interesting approach to expand current reference
 
 * Again, the number of molecular conversions in their methods to generate stable cDNA from total RNA is not an efficient process and also leads to the loss of true community representation.
 
-* A MiSeq was used for both RNA and DNA based SSU rRNA sequencing. It was not explained why the authors chose to do paired-end 1x240bp and 1x25bp instead of simply using the traditional and possibly more insightful 2 x 300bp paired-end sequencing instead.
+* A MiSeq was used for both RNA and DNA based SSU rRNA sequencing. It was not explained why the authors chose to do paired-end 1x240bp and 1x25bp instead of simply using the traditional and possibly more insightful 2x300bp paired-end sequencing instead.
 
