@@ -1,6 +1,6 @@
 ---
 published: true
-title: Meta-analysis Of Human Gut Microbiome Case-control Studies
+title: Meta-analysis of human gut microbiome case-control studies
 post_snippet: In this paper, Duvallet et al. present an effective way to conduct meta-analyses of 16S-based case-control studies of human-gut associated diseases. By reprocessing the datasets with a common bioinformatic pipeline and collapsing to the genus level, significant associations can be compared across studies for the same disease and across multiple studies of different diseases.
 ---
 
