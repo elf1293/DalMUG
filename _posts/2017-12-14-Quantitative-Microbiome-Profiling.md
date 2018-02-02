@@ -1,6 +1,7 @@
 ---
 published: true
 post_snippet: ...relative abundance data cannot be used to determine directional changes in taxa abundance or the biological relevance of these shifts. Vandeputte et al., attempt to solve this issue by measuring absolute bacterial loads of samples in combination with relative abundance information from 16S profiling to create quantitative microbiome profiles.
+title: Quantitative microbiome profiling
 ---
 
 #### [Vandeputte et al., 2017, "Quantitative microbiome profiling links gut community variation to microbial load" Nature](https://www.nature.com/articles/nature24460)
