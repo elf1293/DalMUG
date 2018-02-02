@@ -1,6 +1,7 @@
 ---
 published: true
 post_snippet: This paper is a great example of data-mining available shotgun metagenomics sequencing (MGS) datasets for novel inference. They focus on Blastocystis, a genus of unicellular eukaryotic microorganisms in the Stramenopile phylum. Morphologically strains are similar, but genetically can be extremely different.
+title: Comparative metagenomics of Blastocystis
 ---
  
 #### [Beghini et al., 2017, "Large-scale comparative metagenomics of Blastocystis, a common member of the human gut microbiome." ISME J](https://www.nature.com/ismej/journal/vaop/ncurrent/full/ismej2017139a.html)
