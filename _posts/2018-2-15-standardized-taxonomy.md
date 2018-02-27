@@ -1,6 +1,6 @@
 ---
 published: true
-post_snippet: Parks et al. look to fix problems with existing taxonomy... they propose a novel standardized bacterial taxonomy based on a concatenated protein phylogeny.
+post_snippet: Parks et al. look to fix problems with existing taxonomy. They propose a novel standardized bacterial taxonomy based on a concatenated protein phylogeny.
 title: A novel standardized bacterial taxonomy based on genome phylogeny
 ---
 
