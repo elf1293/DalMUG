@@ -1,6 +1,6 @@
 ---
 published: true
-post_snippet: [Parks et al.]look to fix problems with existing taxonomy... they propose a novel standardized bacterial taxonomy based on a concatenated protein phylogeny.
+post_snippet: Parks et al. look to fix problems with existing taxonomy... they propose a novel standardized bacterial taxonomy based on a concatenated protein phylogeny.
 title: A novel standardized bacterial taxonomy based on genome phylogeny
 ---
 
@@ -33,3 +33,4 @@ Overall, they describe 99 phyla, including six major normalized monophyletic uni
 * Will updating the tree bi-annually cause large shifts in taxonomy as more genomes are added to the tree? This could cause confusions about what version of the taxonomy is being used and what organism is actually being specified.
 
 * The MGS-derived genomes are a high percent of their dereplicated set - how many changes to existing taxa would be made without them? This could be important if there are any fundamental problems with MGS-derived genomes. 
+
