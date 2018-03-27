@@ -1,7 +1,7 @@
 ---
 published: true
 post_snippet: ...designed to classify features into contaminant or non-contaminant categories based on one or two deterministic patterns observed in empirical data
-title: decontam: an R package to remove microbial sequencing contaminants
+title: decontam - an R package to remove microbial sequencing contaminants
 ---
 
 #### [Davis et al., 2018. Simple statistical identification and removal of contaminant sequences in marker-gene and metagenomics data. BioRxiv.](https://www.biorxiv.org/content/early/2017/11/17/221499)
