@@ -1,6 +1,6 @@
 ---
 published: true
-post_snippet: ...designed to classify features into ‘contaminant’ or ‘non-contaminant’ categories based on one or two deterministic patterns observed in empirical data
+post_snippet: ...designed to classify features into contaminant or non-contaminant categories based on one or two deterministic patterns observed in empirical data
 title: decontam: an R package to remove microbial sequencing contaminants
 ---
 
